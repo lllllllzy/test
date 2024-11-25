@@ -6,8 +6,8 @@ Hello everyone!
 
 [书生大模型实战营仓库] (https://github.com/InternLM/Tutorial)
 
-[L0G100 Linux基础知识]（https://blog.csdn.net/m0_67222720/article/details/143567529）
+[L0G100 Linux基础知识] (https://blog.csdn.net/m0_67222720/article/details/143567529)
 
-[L0G200 python基础知识]（https://blog.csdn.net/m0_67222720/article/details/143573328）
+[L0G200 python基础知识] (https://blog.csdn.net/m0_67222720/article/details/143573328)
 
-[L0G300 Git基础知识] （https://blog.csdn.net/m0_67222720/article/details/143988904）
+[L0G300 Git基础知识] (https://blog.csdn.net/m0_67222720/article/details/143988904)
